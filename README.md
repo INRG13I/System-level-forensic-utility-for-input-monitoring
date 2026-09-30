@@ -44,11 +44,6 @@ The implementation here is written from scratch and includes additional features
 
 ---
 
-## 📜 License
-Released under the **MIT License** – see [LICENSE](./LICENSE) for details.  
-
----
-
 ## 👤 Author
 Created by **Raoul-Gabriel Nicolaescu** as part of my cybersecurity learning journey.  
 You can connect with me on [LinkedIn](https://linkedin.com/in/raoul-nicolaescu) or explore more projects on [GitHub](https://github.com/INRG13I).
